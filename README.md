@@ -1,12 +1,13 @@
-### 👋 Maxylan - Fullstack Developer 
+### Maxylan 👋 - Fullstack Developer 
 
-Main Languages: `C#`, `React`
-<br/>[@ me](mailto:maxylan@torpssons.se "maxylan@torpssons.se")
+[@ me](mailto:maxylan@torpssons.se "maxylan@torpssons.se")
+<br/>Main Languages: `C#`, `React`
 
-Learning & Problemsolving is my drug, I'm a scriptkiddie both on-and-off work. 🫶 `.sh` setup-scripts, and I dabble with CI/CD Pipelines & Docker.
+Learning & Problemsolving is my drug, I'm a scriptkiddie both on-and-off work. 🫶 - `.sh` setup-scripts, and I dabble with CI/CD Pipelines & Docker.
 
 ### 🌱 I’m currently learning 
 
+* [Helix Editor](https://helix-editor.com/) *(2024-09)*
 * Rust [🦀](https://doc.rust-lang.org/book/ "The Rust Programming Language") *(2024-09)*
 
 ### 🤔 Backlog 
