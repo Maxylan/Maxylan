@@ -1,16 +1,26 @@
-## Hi there 👋
+### 👋 Maxylan - Fullstack Developer 
 
-<!--
-**Maxylan/Maxylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Main Languages: `C#`, `React`
+<br/>[@ me](mailto:maxylan@torpssons.se "maxylan@torpssons.se")
 
-Here are some ideas to get you started:
+Learning & Problemsolving is my drug, I'm a scriptkiddie both on-and-off work. 🫶 `.sh` setup-scripts, and I dabble with CI/CD Pipelines & Docker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning 
+
+* Rust [🦀](https://doc.rust-lang.org/book/ "The Rust Programming Language") *(2024-09)*
+
+### 🤔 Backlog 
+
+* Self-hosting some stuff
+* [Homie](https://github.com/Maxylan/Homie) & [Leveling-up my C# API](https://github.com/Maxylan/Homie/tree/master/src/proxy "My C# Web API") with TDD
+* [Scala](https://github.com/Maxylan/Homie/tree/master/src/proxy "My reverse-proxy app written in scala")
+* Go/Golang
+* ..million more things
+
+### 🪦 Dev-yard
+
+* ..everything *not* in my pins.
+
+---
+
+<a href="https://stackoverflow.com/users/17733690/maxylan"><img src="https://stackoverflow.com/users/flair/17733690.png" width="208" height="58" alt="profile for Maxylan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Maxylan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
