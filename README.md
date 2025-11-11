@@ -1,20 +1,22 @@
 ### Maxylan 👋 - Fullstack Developer 
 
 [@ me](mailto:maxylan@torpssons.se "maxylan@torpssons.se")
-<br/>Main Languages: `C#`, `React`
+<br/>Main Languages: `C#`, `Javascript` / `Typescript`
+<br/>Frameworks: `Angular`, `React`
 
-Learning & Problemsolving is my drug, I'm a scriptkiddie both on-and-off work. 🫶 - `.sh` setup-scripts, and I dabble with CI/CD Pipelines & Docker.
+Learning & Problemsolving is my drug, I'm a scriptkiddie both on-and-off work. 🫶 - `.sh` setup-scripts, Neovim, and dabbling w/ CI/CD Pipelines & Docker.
+
+As with most project READMEs, you can probably expect this to be outdated by a year or two as well!
 
 ### 🌱 I’m currently learning 
 
-* [Helix Editor](https://helix-editor.com/) *(2024-09)*
-* Rust [🦀](https://doc.rust-lang.org/book/ "The Rust Programming Language") *(2024-09)*
+* Self-hosting some stuff *(2025-11)*
 
 ### 🤔 Backlog 
 
-* Self-hosting some stuff
-* [Homie](https://github.com/Maxylan/Homie) & [Leveling-up my C# API](https://github.com/Maxylan/Homie/tree/master/src/proxy "My C# Web API") with TDD
-* [Scala](https://github.com/Maxylan/Homie/tree/master/src/proxy "My reverse-proxy app written in scala")
+* [Homie](https://github.com/Maxylan/Homie) & [Leveling-up my C# API](https://github.com/Maxylan/Homie/tree/master/src/proxy "My C# Web API") with TDD *(2024-09)*
+* [Scala](https://github.com/Maxylan/Homie/tree/master/src/proxy "My reverse-proxy app written in scala") *(2024-09)*
+* Rust [🦀](https://doc.rust-lang.org/book/ "The Rust Programming Language") *(2024-09)*
 * Go/Golang
 * ..million more things
 
