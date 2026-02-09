@@ -8,14 +8,14 @@ Learning & Problemsolving is my drug, I'm a scriptkiddie both on-and-off work. �
 
 As with most project READMEs, you can probably expect this to be outdated by a year or two as well!
 
-### 🌱 I’m currently learning 
+### 🌱 Current 
 
-* Self-hosting some stuff *(2025-11)*
+* Setting up 🍓 [pi-hole](https://pi-hole.net/) at home *(2026-01)*
+* Setup backups of images on self-hosted server *(immich, 2025-12 onwards)*
 
 ### 🤔 Backlog 
 
 * [Homie](https://github.com/Maxylan/Homie) & [Leveling-up my C# API](https://github.com/Maxylan/Homie/tree/master/src/proxy "My C# Web API") with TDD *(2024-09)*
-* [Scala](https://github.com/Maxylan/Homie/tree/master/src/proxy "My reverse-proxy app written in scala") *(2024-09)*
 * Rust [🦀](https://doc.rust-lang.org/book/ "The Rust Programming Language") *(2024-09)*
 * Go/Golang
 * ..million more things
