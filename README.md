@@ -2,9 +2,9 @@
 
 [@ me](mailto:maxylan@torpssons.se "maxylan@torpssons.se")
 <br/>Main Languages: `C#`, `Javascript` / `Typescript`
-<br/>Frameworks: `Angular`, `React`
+<br/>JS Frameworks: `Angular`, `React`
 
-Learning & Problemsolving is my drug, I'm a scriptkiddie both on-and-off work. 🫶 - `.sh` setup-scripts, Neovim, and dabbling w/ CI/CD Pipelines & Docker.
+Learning & Problemsolving is my drug, I'm a scriptkiddie both on-and-off work. 🫶 - `.sh` setup-scripts, Neovim, and dabbling w/ CI/CD Pipelines & Docker. [Solved all 23 problems](https://github.com/Maxylan/advent-of-code-2025) in [Advent of Code](https://adventofcode.com/) **2025** 🥳
 
 As with most project READMEs, you can probably expect this to be outdated by a year or two as well!
 
